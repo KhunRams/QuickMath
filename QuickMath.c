@@ -69,7 +69,7 @@ int levelOne(int number1,int number2) //level 1
 	}
 	else
 	{
-		printf("Your Ans is Wrong!!!");
+		printf("Your Ans is Wrong\n!!!");
 	}
 }
 
@@ -87,7 +87,7 @@ int levelTwo(int number1,int number2) //level 2
 	}
 	else
 	{
-		printf("Your Ans is Wrong!!!");
+		printf("Your Ans is Wrong!!!\n");
 	}
 	
 }
@@ -106,7 +106,7 @@ int levelThree(int number1,int number2,int number3) //level 3
 	}
 	else
 	{
-		printf("Your Ans is Wrong!!!");
+		printf("Your Ans is Wrong!!!\n");
 	}
 	
 }
@@ -125,7 +125,7 @@ int levelFour(int number1,int number2) //level 4
 	}
 	else
 	{
-		printf("Your Ans is Wrong!!!");
+		printf("Your Ans is Wrong!!!\n");
 	}
 	
 }
@@ -144,7 +144,7 @@ int levelFive(int number1,int number2) //level 5
 	}
 	else
 	{
-		printf("Your Ans is Wrong!!!");
+		printf("Your Ans is Wrong!!!\n");
 	}
 	
 }
